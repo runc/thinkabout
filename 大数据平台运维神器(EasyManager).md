@@ -30,6 +30,12 @@
 
 ```
 
-### EM V1.0版本
+### EM v1.0版本
 
-![命令运行网易云音乐]({filename}/images/4.gif){: width="100px" height="100px"}
+![v1.0](https://github.com/BigDataMatrix/thinkabout/blob/master/pic/introduction.png)
+
+### EM v2.0版本
+
+
+### EM v3.0版本
+
